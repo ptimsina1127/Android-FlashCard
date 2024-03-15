@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlashCard AndroidApp</string>
+    <string name="my_subjects">My Subjects</string>
+    <string name="answer">Answer</string>
+    <string name="question">Question</string>
+</resources>
