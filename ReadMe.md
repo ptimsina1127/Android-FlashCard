@@ -9,7 +9,7 @@ Assignment Description: Assign2.doc
 
 App Design 1: Express Tracking App.doc
 
-App Design 2: Flahcard App.doc
+App Design 2: Flashcard App.doc
 
 ## Second Homework
 ...
